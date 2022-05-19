@@ -1,0 +1,3 @@
+weight_path : 'model/kipoi_basset_weights.pth'
+dataset_path : 'data/encode_roadmap.h5'
+device : 'cuda:0'
